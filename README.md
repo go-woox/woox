@@ -9,7 +9,6 @@ Woox是一个基于Golang的应用脚手架，它是由Golang生态中各种非�
 - **Gorm**: https://github.com/go-gorm/gorm
 - **Wire**: https://github.com/google/wire
 - **Viper**: https://github.com/spf13/viper
-- **Zap**: https://github.com/uber-go/zap
 - **Golang-jwt**: https://github.com/golang-jwt/jwt
 - **Go-redis**: https://github.com/go-redis/redis
 - **Testify**: https://github.com/stretchr/testify
